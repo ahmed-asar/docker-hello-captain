@@ -16,3 +16,7 @@ This project creates a Docker image that prints a personalized greeting message.
    docker run hello-captain "Enter a name"
 
 - If a user inputs a name, it greets with the entered name. If no input is given, it simply prints "Hello, Captain!"
+
+
+
+This project is created with instructions provided from: https://roadmap.sh/projects/basic-dockerfile
